@@ -1,0 +1,17 @@
+{
+  "name": "nintennodeserveur",
+  "version": "1.0.0",
+  "description": "Serveur API en HTTP",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server.api.http"
+  ],
+  "author": "Jehanne,Adrien et Camille",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
